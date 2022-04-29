@@ -21,7 +21,7 @@ Analyze images from MLX90640 thermal camera.
 </figure>
 
 <figure>
-<a href="url"><img src="https://github.com/AkiKurvinen/thermal-image-analysis/blob/main/screenshots/confusion.jpg"  alt="Screenshot 1"></a>
+<a href="url"><img src="https://github.com/AkiKurvinen/thermal-image-analysis/blob/main/screenshots/confusion.png"  alt="Screenshot 1"></a>
 <figcaption>Model predicted correct hand position in 9/10 cases.</figcaption>
 </figure>
 
