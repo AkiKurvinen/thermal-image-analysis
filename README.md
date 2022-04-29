@@ -26,6 +26,6 @@ Analyze images from MLX90640 thermal camera.
 </figure>
 <br /><br />
 <figure>
-<a href="url"><img src="https://github.com/AkiKurvinen/thermal-image-analysis/blob/main/screenshots/heatmaps.jpg"  alt="Screenshot 1"></a><br />
+<a href="url"><img src="https://github.com/AkiKurvinen/thermal-image-analysis/blob/main/screenshots/heatmapimages.jpg"  alt="Screenshot 1"></a><br />
 <figcaption>Four thermal images of same situation.</figcaption>
 </figure>
